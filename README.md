@@ -20,8 +20,6 @@ https://psyclownyt.github.io/ScratchOS/ScratchOS.html                           
 
 https://guerin-pens.github.io/grconsole/grconsole.html                                   a simulated game console
 
-https://games.cdn.spilcloud.com/1556263239_A10_Stunt_Cars_Multiplayer_1/index.html       a fun driving game
-
-##COMING SOON:
+## COMING SOON:
 
 development for neo-scratchOS
