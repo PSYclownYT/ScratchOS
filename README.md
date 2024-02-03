@@ -12,6 +12,8 @@ both were made with penguinmod (make sure to use penguinmod)
 
 ## What images should I install?
 
+run install to install one of these. run boot to install a .psydsc file
+
 https://scratch.mit.edu/projects/26999060/                                               old style racing game
 
 https://psyclownyt.github.io/ScratchOS/ScratchOS.html                                    the intended boot option
@@ -21,7 +23,5 @@ https://guerin-pens.github.io/grconsole/grconsole.html                          
 https://games.cdn.spilcloud.com/1556263239_A10_Stunt_Cars_Multiplayer_1/index.html       a fun driving game
 
 ##COMING SOON:
-
-booting from file
 
 development for neo-scratchOS
